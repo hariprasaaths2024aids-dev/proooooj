@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+requests
+PyMuPDF
+PyPDF2
+python-docx
+sentence-transformers
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
